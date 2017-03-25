@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,group-title="Misc", CBS
+http://208.86.19.13:8080/live/101.stream/index.m3u8
+#EXTINF:-1,group-title="Misc", NBC
+http://208.86.19.123:8080/live/102.stream/index.m3u8
+#EXTINF:-1,group-title="Misc", ABC
+http://208.86.19.123:8080/live/104.stream/index.m3u8
+#EXTINF:-1,group-title="Misc", PIX11
+http://208.86.19.13:8080/live/106.stream/index.m3u8
+#EXTINF:-1,group-title="Misc", WLIW New York
+http://208.86.19.13:8080/live/108.stream/index.m3u8
+#EXTINF:-1,group-title="Misc", FOX NEWS
+http://iphone-streaming.ustream.tv/uhls/4381960/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,group-title="Misc", CBS NEWS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_1200_av-p.m3u8
+#EXTINF:-1,group-title="Misc", CNN 
+http://origin2.cignal.tv/aes/smil:cnnhd.smil/playlist.m3u8
+#EXTINF:-1,group-title="Misc", NFL NOW
+https://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+#EXTINF:-1,group-title="Misc", RT
+http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index2500.m3u8
+#EXTINF:-1,group-title="Misc", TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1,group-title="Misc", VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1,group-title="Misc", WGN the CW
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1,group-title="Misc", Weather channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?hdnts=st=1476206151~%7
+#EXTINF:-1,group-title="Misc", WGN Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1,group-title="Misc", MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,group-title="Misc", RMTV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,group-title="Misc", RACING
+http://dmivll.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1,group-title="Misc", CAPITAL
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
